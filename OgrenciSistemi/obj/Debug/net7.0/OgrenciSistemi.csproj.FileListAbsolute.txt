@@ -1,0 +1,15 @@
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.csproj.AssemblyReference.cache
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.AssemblyInfoInputs.cache
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.AssemblyInfo.cs
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.csproj.CoreCompileInputs.cache
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/bin/Debug/net7.0/OgrenciSistemi
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/bin/Debug/net7.0/OgrenciSistemi.deps.json
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/bin/Debug/net7.0/OgrenciSistemi.runtimeconfig.json
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/bin/Debug/net7.0/OgrenciSistemi.dll
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/bin/Debug/net7.0/OgrenciSistemi.pdb
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.dll
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/refint/OgrenciSistemi.dll
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.pdb
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/OgrenciSistemi.genruntimeconfig.cache
+/Users/berkaycelik/Projects/OgrenciSistemi/OgrenciSistemi/obj/Debug/net7.0/ref/OgrenciSistemi.dll
